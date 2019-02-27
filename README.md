@@ -1,0 +1,2 @@
+# TextViewDemo
+这篇简单的书写了Android TextView控件常用属性以及基本用法
